@@ -1,0 +1,3475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Month_Year</Data></Cell>
+			<Cell><Data ss:Type="String">Building</Data></Cell>
+			<Cell><Data ss:Type="String">floor</Data></Cell>
+			<Cell><Data ss:Type="String">Cost_center_id</Data></Cell>
+			<Cell><Data ss:Type="String">Cost_center_standard_list</Data></Cell>
+			<Cell><Data ss:Type="String">Rent_Seats</Data></Cell>
+			<Cell><Data ss:Type="String">Rent_Common_Areas</Data></Cell>
+			<Cell><Data ss:Type="String">Total_Rent</Data></Cell>
+			<Cell><Data ss:Type="String">Seats_used</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">84,470,632.59</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">84,470,632.59</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">89,846,035.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">89,846,035.42</Data></Cell>
+			<Cell><Data ss:Type="String">356</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">89,846,035.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">89,846,035.42</Data></Cell>
+			<Cell><Data ss:Type="String">356</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">9,577,989.39</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,577,989.39</Data></Cell>
+			<Cell><Data ss:Type="String">43</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7077-011</Data></Cell>
+			<Cell><Data ss:Type="String">FS Codes Payable</Data></Cell>
+			<Cell><Data ss:Type="String">52,344,825.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">52,344,825.74</Data></Cell>
+			<Cell><Data ss:Type="String">235</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">8,018,781.82</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">8,018,781.82</Data></Cell>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">23,165,369.69</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">23,165,369.69</Data></Cell>
+			<Cell><Data ss:Type="String">104</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">42,296,618.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">42,296,618.33</Data></Cell>
+			<Cell><Data ss:Type="String">245</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">11,912,108.84</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">11,912,108.84</Data></Cell>
+			<Cell><Data ss:Type="String">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">33,664,655.40</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,664,655.40</Data></Cell>
+			<Cell><Data ss:Type="String">195</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">40,570,225.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">40,570,225.74</Data></Cell>
+			<Cell><Data ss:Type="String">235</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">13,638,501.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,638,501.42</Data></Cell>
+			<Cell><Data ss:Type="String">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">33,664,655.40</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,664,655.40</Data></Cell>
+			<Cell><Data ss:Type="String">195</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-141</Data></Cell>
+			<Cell><Data ss:Type="String">F3 - Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">78,671,969.56</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">78,671,969.56</Data></Cell>
+			<Cell><Data ss:Type="String">358</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">12,745,738.09</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,745,738.09</Data></Cell>
+			<Cell><Data ss:Type="String">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7077-011</Data></Cell>
+			<Cell><Data ss:Type="String">FS Codes Payable</Data></Cell>
+			<Cell><Data ss:Type="String">37,944,983.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">37,944,983.66</Data></Cell>
+			<Cell><Data ss:Type="String">254</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">2,539,624.89</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,539,624.89</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7071-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">298,779.40</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">298,779.40</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">5,826,198.28</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,826,198.28</Data></Cell>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">29,877,939.89</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">29,877,939.89</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7077-011</Data></Cell>
+			<Cell><Data ss:Type="String">FS Codes Payable</Data></Cell>
+			<Cell><Data ss:Type="String">37,944,983.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">37,944,983.66</Data></Cell>
+			<Cell><Data ss:Type="String">254</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">2,539,624.89</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,539,624.89</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7071-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">298,779.40</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">298,779.40</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">5,826,198.28</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,826,198.28</Data></Cell>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">29,877,939.89</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">29,877,939.89</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">20,022,742.63</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">20,022,742.63</Data></Cell>
+			<Cell><Data ss:Type="String">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-061</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Panama</Data></Cell>
+			<Cell><Data ss:Type="String">14,808,486.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,808,486.74</Data></Cell>
+			<Cell><Data ss:Type="String">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-071</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Costa Rica</Data></Cell>
+			<Cell><Data ss:Type="String">31,702,675.83</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">31,702,675.83</Data></Cell>
+			<Cell><Data ss:Type="String">152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Customer Care Services</Data></Cell>
+			<Cell><Data ss:Type="String">9,385,660.61</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,385,660.61</Data></Cell>
+			<Cell><Data ss:Type="String">45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">11,262,792.73</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">11,262,792.73</Data></Cell>
+			<Cell><Data ss:Type="String">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">18,238,868.24</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">18,238,868.24</Data></Cell>
+			<Cell><Data ss:Type="String">143</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-061</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Panama</Data></Cell>
+			<Cell><Data ss:Type="String">10,586,196.25</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,586,196.25</Data></Cell>
+			<Cell><Data ss:Type="String">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-071</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Costa Rica</Data></Cell>
+			<Cell><Data ss:Type="String">10,586,196.25</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,586,196.25</Data></Cell>
+			<Cell><Data ss:Type="String">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">25,508,906.63</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,508,906.63</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">12,244,275.18</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,244,275.18</Data></Cell>
+			<Cell><Data ss:Type="String">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-061</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Panama</Data></Cell>
+			<Cell><Data ss:Type="String">9,055,661.86</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,055,661.86</Data></Cell>
+			<Cell><Data ss:Type="String">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-071</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Costa Rica</Data></Cell>
+			<Cell><Data ss:Type="String">19,386,769.04</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">19,386,769.04</Data></Cell>
+			<Cell><Data ss:Type="String">152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7071-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Customer Care Services</Data></Cell>
+			<Cell><Data ss:Type="String">5,739,503.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,739,503.99</Data></Cell>
+			<Cell><Data ss:Type="String">45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">18,493,957.31</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">18,493,957.31</Data></Cell>
+			<Cell><Data ss:Type="String">145</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-041</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Dom Rep. - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">6,491,171.37</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,491,171.37</Data></Cell>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-031</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">2,344,034.11</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,344,034.11</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-131</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Islas Vir - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">1,262,172.21</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,262,172.21</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-161</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care USVI</Data></Cell>
+			<Cell><Data ss:Type="String">360,620.63</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">360,620.63</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-081</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Trinidad y Tob - Ind</Data></Cell>
+			<Cell><Data ss:Type="String">1,442,482.53</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,442,482.53</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-031</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">1,081,861.90</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,081,861.90</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-111</Data></Cell>
+			<Cell><Data ss:Type="String">Allocations Customer Care Mangement</Data></Cell>
+			<Cell><Data ss:Type="String">12,982,342.75</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,982,342.75</Data></Cell>
+			<Cell><Data ss:Type="String">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-141</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Belize</Data></Cell>
+			<Cell><Data ss:Type="String">2,704,654.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,704,654.74</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7074-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Internal</Data></Cell>
+			<Cell><Data ss:Type="String">360,620.63</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">360,620.63</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">17,309,790.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">17,309,790.33</Data></Cell>
+			<Cell><Data ss:Type="String">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">44,536,648.04</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">44,536,648.04</Data></Cell>
+			<Cell><Data ss:Type="String">247</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-041</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Dom Rep. - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">11,382,708.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">11,382,708.99</Data></Cell>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-031</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">3,502,372.00</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,502,372.00</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-131</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Islas Vir - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">2,043,050.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,043,050.33</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-161</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care USVI</Data></Cell>
+			<Cell><Data ss:Type="String">875,593.00</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">875,593.00</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-081</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Trinidad y Tob - Ind</Data></Cell>
+			<Cell><Data ss:Type="String">2,043,050.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,043,050.33</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-031</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">1,459,321.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,459,321.67</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-111</Data></Cell>
+			<Cell><Data ss:Type="String">Allocations Customer Care Mangement</Data></Cell>
+			<Cell><Data ss:Type="String">21,014,231.98</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">21,014,231.98</Data></Cell>
+			<Cell><Data ss:Type="String">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-141</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Belize</Data></Cell>
+			<Cell><Data ss:Type="String">2,626,779.00</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,626,779.00</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7074-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Internal</Data></Cell>
+			<Cell><Data ss:Type="String">1,167,457.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,167,457.33</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">7,880,336.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,880,336.99</Data></Cell>
+			<Cell><Data ss:Type="String">27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7078-011</Data></Cell>
+			<Cell><Data ss:Type="String">Auckland Fraud UnOps</Data></Cell>
+			<Cell><Data ss:Type="String">1,459,321.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,459,321.67</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Customer Care Services</Data></Cell>
+			<Cell><Data ss:Type="String">18,095,588.65</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">18,095,588.65</Data></Cell>
+			<Cell><Data ss:Type="String">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">1,459,321.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,459,321.67</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-041</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Dom Rep. - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">10,507,115.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,507,115.99</Data></Cell>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-031</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">3,794,236.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,794,236.33</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-131</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Islas Vir - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">2,043,050.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,043,050.33</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-161</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care USVI</Data></Cell>
+			<Cell><Data ss:Type="String">583,728.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">583,728.67</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-081</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Trinidad y Tob - Ind</Data></Cell>
+			<Cell><Data ss:Type="String">2,334,914.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,334,914.66</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-031</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">1,751,186.00</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,751,186.00</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-111</Data></Cell>
+			<Cell><Data ss:Type="String">Allocations Customer Care Mangement</Data></Cell>
+			<Cell><Data ss:Type="String">21,014,231.98</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">21,014,231.98</Data></Cell>
+			<Cell><Data ss:Type="String">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7071-141</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Belize</Data></Cell>
+			<Cell><Data ss:Type="String">4,377,965.00</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,377,965.00</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7074-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Internal</Data></Cell>
+			<Cell><Data ss:Type="String">583,728.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">583,728.67</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">28,018,975.97</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">28,018,975.97</Data></Cell>
+			<Cell><Data ss:Type="String">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">7,805,209.07</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,805,209.07</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">6,070,718.16</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,070,718.16</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-031</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Jamaica - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">867,245.45</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">867,245.45</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">1,734,490.90</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,734,490.90</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">867,245.45</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">867,245.45</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">3,468,981.81</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,468,981.81</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">20,813,890.84</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">20,813,890.84</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">55,282,821.31</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">55,282,821.31</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">103,655,289.95</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">103,655,289.95</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-031</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Jamaica - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">55,282,821.31</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">55,282,821.31</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">103,655,289.95</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">103,655,289.95</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-031</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Jamaica - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,910,352.66</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,820,705.33</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">89,313,094.31</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">89,313,094.31</Data></Cell>
+			<Cell><Data ss:Type="String">375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">1,905,346.01</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,905,346.01</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">41,203,107.51</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">41,203,107.51</Data></Cell>
+			<Cell><Data ss:Type="String">173</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">213,214,897.85</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">213,214,897.85</Data></Cell>
+			<Cell><Data ss:Type="String">371</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">2,873,516.14</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,873,516.14</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">1,149,406.46</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,149,406.46</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">114,940,645.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">114,940,645.74</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">213,214,897.85</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">213,214,897.85</Data></Cell>
+			<Cell><Data ss:Type="String">371</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">4,022,922.60</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,022,922.60</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">114,940,645.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">114,940,645.74</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">150,819,056.09</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">150,819,056.09</Data></Cell>
+			<Cell><Data ss:Type="String">131</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">178,450,028.20</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">178,450,028.20</Data></Cell>
+			<Cell><Data ss:Type="String">155</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-031</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Jamaica - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">61,018,396.74</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">61,018,396.74</Data></Cell>
+			<Cell><Data ss:Type="String">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-041</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Dominican Rep. - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">47,202,910.69</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">47,202,910.69</Data></Cell>
+			<Cell><Data ss:Type="String">41</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">48,354,201.19</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">48,354,201.19</Data></Cell>
+			<Cell><Data ss:Type="String">42</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">13,815,486.05</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,815,486.05</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">142,760,022.56</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">142,760,022.56</Data></Cell>
+			<Cell><Data ss:Type="String">124</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">77,008,629.82</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">77,008,629.82</Data></Cell>
+			<Cell><Data ss:Type="String">133</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">88,009,862.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">88,009,862.66</Data></Cell>
+			<Cell><Data ss:Type="String">152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-031</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Jamaica - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">30,108,637.22</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">30,108,637.22</Data></Cell>
+			<Cell><Data ss:Type="String">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-041</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Dominican Rep. - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">22,581,477.92</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">22,581,477.92</Data></Cell>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">25,476,539.19</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,476,539.19</Data></Cell>
+			<Cell><Data ss:Type="String">44</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">5,211,110.29</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,211,110.29</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">86,851,838.15</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">86,851,838.15</Data></Cell>
+			<Cell><Data ss:Type="String">150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">77,008,629.82</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">77,008,629.82</Data></Cell>
+			<Cell><Data ss:Type="String">133</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">89,746,899.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">89,746,899.42</Data></Cell>
+			<Cell><Data ss:Type="String">155</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-031</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Jamaica - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">30,108,637.22</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">30,108,637.22</Data></Cell>
+			<Cell><Data ss:Type="String">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-041</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Dominican Rep. - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">23,739,502.43</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">23,739,502.43</Data></Cell>
+			<Cell><Data ss:Type="String">41</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">24,318,514.68</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">24,318,514.68</Data></Cell>
+			<Cell><Data ss:Type="String">42</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">6,369,134.80</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,369,134.80</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">83,956,776.88</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">83,956,776.88</Data></Cell>
+			<Cell><Data ss:Type="String">145</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-117</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Alaska - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">137,825,655.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">137,825,655.99</Data></Cell>
+			<Cell><Data ss:Type="String">122</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">284,689,059.92</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">284,689,059.92</Data></Cell>
+			<Cell><Data ss:Type="String">252</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-131</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Bolivia - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">62,134,517.05</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">62,134,517.05</Data></Cell>
+			<Cell><Data ss:Type="String">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">7,908,029.44</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,908,029.44</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1003-071</Data></Cell>
+			<Cell><Data ss:Type="String">Develop., Lead. & Training</Data></Cell>
+			<Cell><Data ss:Type="String">1,129,718.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,129,718.49</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">143,474,248.45</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">143,474,248.45</Data></Cell>
+			<Cell><Data ss:Type="String">127</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">30,346,003.18</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">30,346,003.18</Data></Cell>
+			<Cell><Data ss:Type="String">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">87,602,612.94</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">87,602,612.94</Data></Cell>
+			<Cell><Data ss:Type="String">153</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-131</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Bolivia - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">44,660,155.62</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">44,660,155.62</Data></Cell>
+			<Cell><Data ss:Type="String">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">572,566.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">572,566.10</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-177</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - Manhattan</Data></Cell>
+			<Cell><Data ss:Type="String">37,789,362.45</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">37,789,362.45</Data></Cell>
+			<Cell><Data ss:Type="String">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">8,015,925.37</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">8,015,925.37</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-137</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Bolivia - CrediScotia</Data></Cell>
+			<Cell><Data ss:Type="String">9,733,623.66</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,733,623.66</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">114,513,219.54</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">114,513,219.54</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">47,522,986.11</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">47,522,986.11</Data></Cell>
+			<Cell><Data ss:Type="String">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">94,473,406.12</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">94,473,406.12</Data></Cell>
+			<Cell><Data ss:Type="String">165</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-131</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Bolivia - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">54,393,779.28</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">54,393,779.28</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">1,717,698.29</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,717,698.29</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-171</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Chicago - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">14,314,152.44</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,314,152.44</Data></Cell>
+			<Cell><Data ss:Type="String">25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">9,161,057.56</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,161,057.56</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">111,650,389.05</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">111,650,389.05</Data></Cell>
+			<Cell><Data ss:Type="String">195</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-131</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Bolivia - BCP</Data></Cell>
+			<Cell><Data ss:Type="String">7,796,828.17</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,796,828.17</Data></Cell>
+			<Cell><Data ss:Type="String">42</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-117</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Alaska - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">28,217,092.44</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">28,217,092.44</Data></Cell>
+			<Cell><Data ss:Type="String">152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">12,252,158.56</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,252,158.56</Data></Cell>
+			<Cell><Data ss:Type="String">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-071</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa R. - Prim Indire</Data></Cell>
+			<Cell><Data ss:Type="String">556,916.30</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">556,916.30</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">33,229,339.13</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,229,339.13</Data></Cell>
+			<Cell><Data ss:Type="String">179</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">26,360,704.78</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">26,360,704.78</Data></Cell>
+			<Cell><Data ss:Type="String">142</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-117</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Alaska - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">123,629,286.16</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">123,629,286.16</Data></Cell>
+			<Cell><Data ss:Type="String">225</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">36,264,590.61</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">36,264,590.61</Data></Cell>
+			<Cell><Data ss:Type="String">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">85,166,841.58</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">85,166,841.58</Data></Cell>
+			<Cell><Data ss:Type="String">155</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-077</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Costa Rica - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">549,463.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">549,463.49</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">79,672,206.64</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">79,672,206.64</Data></Cell>
+			<Cell><Data ss:Type="String">145</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-117</Data></Cell>
+			<Cell><Data ss:Type="String">Loyalty Alaska - Primary</Data></Cell>
+			<Cell><Data ss:Type="String">123,079,822.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">123,079,822.67</Data></Cell>
+			<Cell><Data ss:Type="String">224</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-011</Data></Cell>
+			<Cell><Data ss:Type="String">CIERRE  CONTB./ TESORERIA</Data></Cell>
+			<Cell><Data ss:Type="String">36,264,590.61</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">36,264,590.61</Data></Cell>
+			<Cell><Data ss:Type="String">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">83,518,451.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">83,518,451.10</Data></Cell>
+			<Cell><Data ss:Type="String">152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">82,419,524.11</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">82,419,524.11</Data></Cell>
+			<Cell><Data ss:Type="String">150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">7,799,821.01</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,799,821.01</Data></Cell>
+			<Cell><Data ss:Type="String">240</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">2,989,867.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,989,867.10</Data></Cell>
+			<Cell><Data ss:Type="String">26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">2,989,867.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,989,867.10</Data></Cell>
+			<Cell><Data ss:Type="String">26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">24,841,542.98</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">24,841,542.98</Data></Cell>
+			<Cell><Data ss:Type="String">115</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">17,713,100.21</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">17,713,100.21</Data></Cell>
+			<Cell><Data ss:Type="String">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">53,355,314.05</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">53,355,314.05</Data></Cell>
+			<Cell><Data ss:Type="String">247</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">67,149,709.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">67,149,709.10</Data></Cell>
+			<Cell><Data ss:Type="String">145</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">24,081,274.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">24,081,274.99</Data></Cell>
+			<Cell><Data ss:Type="String">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">1,389,304.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,389,304.33</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">52,330,462.95</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">52,330,462.95</Data></Cell>
+			<Cell><Data ss:Type="String">113</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">36,585,013.92</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">36,585,013.92</Data></Cell>
+			<Cell><Data ss:Type="String">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">3,704,811.54</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,704,811.54</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">192,852.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">192,852.42</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-011</Data></Cell>
+			<Cell><Data ss:Type="String">HR Services 1 - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">18,320,980.36</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">18,320,980.36</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-017</Data></Cell>
+			<Cell><Data ss:Type="String">Development (PEGA)</Data></Cell>
+			<Cell><Data ss:Type="String">2,699,933.95</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,699,933.95</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-013</Data></Cell>
+			<Cell><Data ss:Type="String">GFT</Data></Cell>
+			<Cell><Data ss:Type="String">2,121,376.67</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,121,376.67</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-014</Data></Cell>
+			<Cell><Data ss:Type="String">Employee Experience Technology</Data></Cell>
+			<Cell><Data ss:Type="String">1,157,114.55</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,157,114.55</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">9,064,063.97</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,064,063.97</Data></Cell>
+			<Cell><Data ss:Type="String">47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-013</Data></Cell>
+			<Cell><Data ss:Type="String">GFT</Data></Cell>
+			<Cell><Data ss:Type="String">578,557.27</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">578,557.27</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">6,942,687.30</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,942,687.30</Data></Cell>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">40,691,861.65</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">40,691,861.65</Data></Cell>
+			<Cell><Data ss:Type="String">211</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-011</Data></Cell>
+			<Cell><Data ss:Type="String">HR Services 1 - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">65,046,837.24</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">65,046,837.24</Data></Cell>
+			<Cell><Data ss:Type="String">147</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-017</Data></Cell>
+			<Cell><Data ss:Type="String">Development (PEGA)</Data></Cell>
+			<Cell><Data ss:Type="String">10,619,891.79</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,619,891.79</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-013</Data></Cell>
+			<Cell><Data ss:Type="String">GFT</Data></Cell>
+			<Cell><Data ss:Type="String">10,619,891.79</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,619,891.79</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-014</Data></Cell>
+			<Cell><Data ss:Type="String">Employee Experience Technology</Data></Cell>
+			<Cell><Data ss:Type="String">7,522,423.35</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,522,423.35</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-011</Data></Cell>
+			<Cell><Data ss:Type="String">HR Services 1 - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">63,276,855.28</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">63,276,855.28</Data></Cell>
+			<Cell><Data ss:Type="String">143</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-017</Data></Cell>
+			<Cell><Data ss:Type="String">Development (PEGA)</Data></Cell>
+			<Cell><Data ss:Type="String">6,194,936.88</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,194,936.88</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-013</Data></Cell>
+			<Cell><Data ss:Type="String">GFT</Data></Cell>
+			<Cell><Data ss:Type="String">7,964,918.85</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,964,918.85</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7073-014</Data></Cell>
+			<Cell><Data ss:Type="String">Employee Experience Technology</Data></Cell>
+			<Cell><Data ss:Type="String">3,982,459.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,982,459.42</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">12,389,873.76</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,389,873.76</Data></Cell>
+			<Cell><Data ss:Type="String">28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">442,495.49</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">166,253.89</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">166,253.89</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-011</Data></Cell>
+			<Cell><Data ss:Type="String">HR Services 1 - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">9,143,963.99</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,143,963.99</Data></Cell>
+			<Cell><Data ss:Type="String">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7077-801</Data></Cell>
+			<Cell><Data ss:Type="String">Reverse Call Center Project</Data></Cell>
+			<Cell><Data ss:Type="String">10,141,487.33</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,141,487.33</Data></Cell>
+			<Cell><Data ss:Type="String">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">13,632,819.04</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,632,819.04</Data></Cell>
+			<Cell><Data ss:Type="String">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">43,059,757.70</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">43,059,757.70</Data></Cell>
+			<Cell><Data ss:Type="String">259</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">1,364,671.65</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,364,671.65</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">454,890.55</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">454,890.55</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-011</Data></Cell>
+			<Cell><Data ss:Type="String">HR Services 1 - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">25,018,980.27</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,018,980.27</Data></Cell>
+			<Cell><Data ss:Type="String">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7077-801</Data></Cell>
+			<Cell><Data ss:Type="String">Reverse Call Center Project</Data></Cell>
+			<Cell><Data ss:Type="String">34,571,681.82</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">34,571,681.82</Data></Cell>
+			<Cell><Data ss:Type="String">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-801</Data></Cell>
+			<Cell><Data ss:Type="String">Ops Services Project</Data></Cell>
+			<Cell><Data ss:Type="String">29,112,995.22</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">29,112,995.22</Data></Cell>
+			<Cell><Data ss:Type="String">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-181</Data></Cell>
+			<Cell><Data ss:Type="String">Compliance</Data></Cell>
+			<Cell><Data ss:Type="String">1,364,671.65</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,364,671.65</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">454,890.55</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">454,890.55</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-011</Data></Cell>
+			<Cell><Data ss:Type="String">HR Services 1 - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">25,018,980.27</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,018,980.27</Data></Cell>
+			<Cell><Data ss:Type="String">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7077-801</Data></Cell>
+			<Cell><Data ss:Type="String">Reverse Call Center Project</Data></Cell>
+			<Cell><Data ss:Type="String">34,571,681.82</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">34,571,681.82</Data></Cell>
+			<Cell><Data ss:Type="String">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-801</Data></Cell>
+			<Cell><Data ss:Type="String">Ops Services Project</Data></Cell>
+			<Cell><Data ss:Type="String">29,112,995.22</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">29,112,995.22</Data></Cell>
+			<Cell><Data ss:Type="String">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-011</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">1,735,681.28</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,735,681.28</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-801</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta</Data></Cell>
+			<Cell><Data ss:Type="String">6,171,311.23</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,171,311.23</Data></Cell>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-013</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland (Cap. Expenses)</Data></Cell>
+			<Cell><Data ss:Type="String">3,085,655.61</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,085,655.61</Data></Cell>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">4,435,629.95</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,435,629.95</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-011</Data></Cell>
+			<Cell><Data ss:Type="String">FS Codes Payable</Data></Cell>
+			<Cell><Data ss:Type="String">4,628,483.42</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,628,483.42</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">771,413.90</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">771,413.90</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-801</Data></Cell>
+			<Cell><Data ss:Type="String">Reverse Call Center Project</Data></Cell>
+			<Cell><Data ss:Type="String">10,799,794.65</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,799,794.65</Data></Cell>
+			<Cell><Data ss:Type="String">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-071</Data></Cell>
+			<Cell><Data ss:Type="String">FS Acc Payable Perth</Data></Cell>
+			<Cell><Data ss:Type="String">3,664,216.04</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,664,216.04</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-013</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct</Data></Cell>
+			<Cell><Data ss:Type="String">2,507,095.19</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,507,095.19</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">49,370,489.84</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">49,370,489.84</Data></Cell>
+			<Cell><Data ss:Type="String">256</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-011</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">2,518,311.71</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,518,311.71</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-801</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta</Data></Cell>
+			<Cell><Data ss:Type="String">16,117,194.92</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">16,117,194.92</Data></Cell>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-013</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland (Cap. Expenses)</Data></Cell>
+			<Cell><Data ss:Type="String">6,043,948.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,043,948.10</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-807</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta Integration</Data></Cell>
+			<Cell><Data ss:Type="String">11,584,233.85</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">11,584,233.85</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">13,598,883.22</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">13,598,883.22</Data></Cell>
+			<Cell><Data ss:Type="String">27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-011</Data></Cell>
+			<Cell><Data ss:Type="String">FS Codes Payable</Data></Cell>
+			<Cell><Data ss:Type="String">10,576,909.17</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,576,909.17</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">2,014,649.37</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,014,649.37</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-801</Data></Cell>
+			<Cell><Data ss:Type="String">Reverse Call Center Project</Data></Cell>
+			<Cell><Data ss:Type="String">14,606,207.90</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,606,207.90</Data></Cell>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-071</Data></Cell>
+			<Cell><Data ss:Type="String">FS Acc Payable Perth</Data></Cell>
+			<Cell><Data ss:Type="String">9,569,584.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,569,584.49</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-013</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct</Data></Cell>
+			<Cell><Data ss:Type="String">6,547,610.44</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,547,610.44</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7007-031</Data></Cell>
+			<Cell><Data ss:Type="String">Accounting</Data></Cell>
+			<Cell><Data ss:Type="String">4,532,961.07</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,532,961.07</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-014</Data></Cell>
+			<Cell><Data ss:Type="String">Global Insurance Finan Op</Data></Cell>
+			<Cell><Data ss:Type="String">1,007,324.68</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,007,324.68</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-011</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">2,518,311.71</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,518,311.71</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-801</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta</Data></Cell>
+			<Cell><Data ss:Type="String">16,117,194.92</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">16,117,194.92</Data></Cell>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-013</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland (Cap. Expenses)</Data></Cell>
+			<Cell><Data ss:Type="String">6,043,948.10</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,043,948.10</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-807</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta Integration</Data></Cell>
+			<Cell><Data ss:Type="String">11,584,233.85</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">11,584,233.85</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-017</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct - Indirect</Data></Cell>
+			<Cell><Data ss:Type="String">11,584,233.85</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">11,584,233.85</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-011</Data></Cell>
+			<Cell><Data ss:Type="String">FS Codes Payable</Data></Cell>
+			<Cell><Data ss:Type="String">12,087,896.19</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,087,896.19</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">2,518,311.71</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,518,311.71</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-801</Data></Cell>
+			<Cell><Data ss:Type="String">Reverse Call Center Project</Data></Cell>
+			<Cell><Data ss:Type="String">15,613,532.58</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,613,532.58</Data></Cell>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-071</Data></Cell>
+			<Cell><Data ss:Type="String">FS Acc Payable Perth</Data></Cell>
+			<Cell><Data ss:Type="String">9,569,584.49</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,569,584.49</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-013</Data></Cell>
+			<Cell><Data ss:Type="String">FS Ops&S Acct</Data></Cell>
+			<Cell><Data ss:Type="String">6,547,610.44</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,547,610.44</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7007-031</Data></Cell>
+			<Cell><Data ss:Type="String">Accounting</Data></Cell>
+			<Cell><Data ss:Type="String">4,532,961.07</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,532,961.07</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,213,624.52</Data></Cell>
+			<Cell><Data ss:Type="String">5,213,624.52</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,587,019.58</Data></Cell>
+			<Cell><Data ss:Type="String">3,587,019.58</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,587,019.58</Data></Cell>
+			<Cell><Data ss:Type="String">3,587,019.58</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,300,665.69</Data></Cell>
+			<Cell><Data ss:Type="String">6,300,665.69</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,689,483.43</Data></Cell>
+			<Cell><Data ss:Type="String">5,689,483.43</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,689,483.43</Data></Cell>
+			<Cell><Data ss:Type="String">5,689,483.43</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7076-011</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7075-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Dominican Rep.</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7076-801</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">5,239,565.55</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7075-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Dominican Rep.</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">7075-011</Data></Cell>
+			<Cell><Data ss:Type="String">Customer Care Dominican Rep.</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">14,310,020.89</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,474,914.67</Data></Cell>
+			<Cell><Data ss:Type="String">9,474,914.67</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,474,914.67</Data></Cell>
+			<Cell><Data ss:Type="String">9,474,914.67</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">7073-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement HR services</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">25,877,379.62</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,780,873.95</Data></Cell>
+			<Cell><Data ss:Type="String">5,780,873.95</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,780,873.95</Data></Cell>
+			<Cell><Data ss:Type="String">5,780,873.95</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-801</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-011</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-807</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Malta Integration</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7077-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Financial Services</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7076-011</Data></Cell>
+			<Cell><Data ss:Type="String">FPLP Auckland</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Choachi</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">15,788,413.41</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">65,754,967.81</Data></Cell>
+			<Cell><Data ss:Type="String">65,754,967.81</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">131,471,220.76</Data></Cell>
+			<Cell><Data ss:Type="String">131,471,220.76</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">131,471,220.76</Data></Cell>
+			<Cell><Data ss:Type="String">131,471,220.76</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,506,063.17</Data></Cell>
+			<Cell><Data ss:Type="String">1,506,063.17</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,762,118.81</Data></Cell>
+			<Cell><Data ss:Type="String">2,762,118.81</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">2,762,118.81</Data></Cell>
+			<Cell><Data ss:Type="String">2,762,118.81</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,340,509.77</Data></Cell>
+			<Cell><Data ss:Type="String">12,340,509.77</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1070-001</Data></Cell>
+			<Cell><Data ss:Type="String">Mangement Loyalty Service</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,340,509.77</Data></Cell>
+			<Cell><Data ss:Type="String">12,340,509.77</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">4,727,537.75</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1003-071</Data></Cell>
+			<Cell><Data ss:Type="String">Develop., Lead. & Training</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">17,599,381.95</Data></Cell>
+			<Cell><Data ss:Type="String">17,599,381.95</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">17,599,381.95</Data></Cell>
+			<Cell><Data ss:Type="String">17,599,381.95</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">6,742,164.15</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,391,280.72</Data></Cell>
+			<Cell><Data ss:Type="String">3,391,280.72</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">3,391,280.72</Data></Cell>
+			<Cell><Data ss:Type="String">3,391,280.72</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">7,446,151.52</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Lobby</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">10,944,799.92</Data></Cell>
+			<Cell><Data ss:Type="String">10,944,799.92</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Lobby</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,402,293.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,402,293.00</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Salento</Data></Cell>
+			<Cell><Data ss:Type="String">Lobby</Data></Cell>
+			<Cell><Data ss:Type="String">1004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,402,293.00</Data></Cell>
+			<Cell><Data ss:Type="String">33,402,293.00</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">872,028.66</Data></Cell>
+			<Cell><Data ss:Type="String">872,028.66</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,055,699.73</Data></Cell>
+			<Cell><Data ss:Type="String">6,055,699.73</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 1</Data></Cell>
+			<Cell><Data ss:Type="String">7004-031</Data></Cell>
+			<Cell><Data ss:Type="String">Infraestructure</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,055,699.73</Data></Cell>
+			<Cell><Data ss:Type="String">6,055,699.73</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,178,404.10</Data></Cell>
+			<Cell><Data ss:Type="String">1,178,404.10</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">752,133.88</Data></Cell>
+			<Cell><Data ss:Type="String">752,133.88</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 2</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">752,133.88</Data></Cell>
+			<Cell><Data ss:Type="String">752,133.88</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">6,958,888.50</Data></Cell>
+			<Cell><Data ss:Type="String">6,958,888.50</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,159,730.98</Data></Cell>
+			<Cell><Data ss:Type="String">5,159,730.98</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 3</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">5,159,730.98</Data></Cell>
+			<Cell><Data ss:Type="String">5,159,730.98</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">12,584,034.69</Data></Cell>
+			<Cell><Data ss:Type="String">12,584,034.69</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,330,546.64</Data></Cell>
+			<Cell><Data ss:Type="String">9,330,546.64</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 4</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">9,330,546.64</Data></Cell>
+			<Cell><Data ss:Type="String">9,330,546.64</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dec 2018</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,624,942.26</Data></Cell>
+			<Cell><Data ss:Type="String">1,624,942.26</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jan 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,205,205.06</Data></Cell>
+			<Cell><Data ss:Type="String">1,205,205.06</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Feb 2019</Data></Cell>
+			<Cell><Data ss:Type="String">Usaquen</Data></Cell>
+			<Cell><Data ss:Type="String">Floor 5</Data></Cell>
+			<Cell><Data ss:Type="String">1001-001</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">0.00</Data></Cell>
+			<Cell><Data ss:Type="String">1,205,205.06</Data></Cell>
+			<Cell><Data ss:Type="String">1,205,205.06</Data></Cell>
+			<Cell><Data ss:Type="String">0</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

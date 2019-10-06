@@ -1,14 +1,12 @@
 CREATE DATABASE IF NOT EXISTS  area_operaciones;
 USE AREA_OPERACIONES;
 # Creacion de tablas;
-drop table areas_comunes;
 CREATE TABLE IF NOT EXISTS Areas_Comunes(
-ID_AC INT AUTO_INCREMENT,
 Building TEXT,
 Floor TEXT,
 ID_Room_Name varchar(255) NOT NULL,
 Area_m2 decimal(12,2),
-primary key (ID_AC ));
+primary key (ID_Room_Name));
 
 TRUNCATE Areas_Comunes;
 LOAD DATA INFILE'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Tabla_areas_comunes.csv' IGNORE
@@ -34,9 +32,9 @@ LINES TERMINATED BY '\n'
 IGNORE 1 LINES
 (Cost_Center_Id,Cost_Center_Standard_List,Cost_Center_Group);
 
-drop table areas_comunes_mes;
+
 CREATE TABLE IF NOT EXISTS Areas_Comunes_Mes (
-ID_ACM int,
+ID_ACM INT AUTO_INCREMENT,
 Period date,
 Building TEXT,
 Floor TEXT,
@@ -44,10 +42,8 @@ Cost_Center_Id varchar(255) NOT NULL,
 Room_Name varchar(255) NOT NULL,
 Weight INT,
 primary key (ID_ACM),
+foreign key (Room_Name) references Areas_Comunes (ID_Room_Name),
 foreign key (Cost_Center_Id) references Centro_Costo (Cost_Center_Id));
-
--- ALTER TABLE areas_comunes_mes AUTO_INCREMENT  241;
-select * from areas_comunes_mes;
 
 TRUNCATE Areas_Comunes_Mes;
 LOAD DATA INFILE'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Areas_Comunes_Mes.csv' IGNORE
@@ -56,7 +52,7 @@ FIELDS TERMINATED BY ','
 enclosed by '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES
-(Cost_Center_Id,ID_ACM,Period,Building,Floor,Room_Name,Weight);
+(Cost_Center_Id,Period,Building,Floor,Room_Name,Weight);
 
 drop table arriendos;
 CREATE TABLE IF NOT EXISTS Arriendos (
